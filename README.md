@@ -1,2 +1,2 @@
-# 잇홈 - It's Home
+# 잇홈 - ItHome
 - https://ithome.wwv.kr
